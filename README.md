@@ -1,29 +1,12 @@
-# sql-complete
+<!--
+ * @Description:
+ * @Author: yuyi
+ * @Date: 2022-07-22 23:38:56
+ * @LastEditors: yuyi
+ * @LastEditTime: 2022-07-23 00:00:43
+-->
+# sql-autocomplete
 
-## Project setup
-```
-yarn install
-```
+SQL editor auto complete
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Monaco Editor & Hue
